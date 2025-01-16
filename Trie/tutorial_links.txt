@@ -1,0 +1,2 @@
+https://prepinsta.com/data-structures-and-algorithms-in-python/trie-in-python/
+https://www.aleksandrhovhannisyan.com/blog/python-trie-data-structure/
